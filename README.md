@@ -64,7 +64,7 @@ I am currently pursuing a Master of Science in Computer Science and a Graduate C
 ## Certifications
 
 - **Data Analysis with Python** - University of Colorado Boulder
-- **Classification Analysis** - University of Colorado Boulder
+- AWS Cloud Solutions Architect - Amazon Web Services (AWS)
 
 ## Contact
 
