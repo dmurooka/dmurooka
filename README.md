@@ -28,7 +28,7 @@ An experienced entrepreneur and data professional with over 15 years in business
 - **Programming Languages**: Python, R, JavaScript/TypeScript, HTML/CSS
 - **Frameworks**: Django, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning
-- **Tools & Technologies**: pandas, NumPy, seaborn, scikit-learn, Git, Docker
+- **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, Git, Docker
 - **Business Management**: Overall business acumen, Digital Marketing, E-commerce, Product Design, Accouting
 
 ## Experience
