@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Daishin Murooka
+# Daishin
 
 [![LinkedIn](https://www.linkedin.com/in/daishinmurooka/)
 
