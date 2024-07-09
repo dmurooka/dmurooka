@@ -25,15 +25,16 @@ I am an experienced entrepreneur and data professional with over 10 years in bus
 
 ## Skills
 
-- **Programming Languages**: Python, R, JavaScript/TypeScript, HTML/CSS
+- **Programming Languages**: Python, R, JavaScript/TypeScript, React.js, HTML/CSS
 - **Frameworks**: Django, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning
-- **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, Git, Docker
+- **Mathematics**: Linear Algebra, Discrete Mathmatics, Complex Analysis, Statistics
+- **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
 - **Business Management**: Overall business acumen, Digital Marketing, E-commerce, Product Design, Accouting
 
 ## Experience
 
-### Founder & Artistic Director (ie  - Larrys School of Ballet
+### Founder & Artistic Director - Larrys School of Ballet
 *2009 - Present*
 - Established and grew one of Japan's premier classical ballet schools with 5+ studios across the country.
 
