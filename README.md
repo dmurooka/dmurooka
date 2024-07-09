@@ -40,7 +40,7 @@ I am currently pursuing a Master of Science in Computer Science and a Graduate C
 ## Experience
 
 ### Founder & Artistic Director - Larrys School of Ballet
-*2009 - Present*
+*2015 - Present*
 - Established and grew one of Japan's premier classical ballet schools with 5+ studios across the country
 
 ### Founder - Summer World Ballet Agency
