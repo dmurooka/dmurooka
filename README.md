@@ -38,21 +38,21 @@ I am currently pursuing a Master of Science in Computer Science and a Graduate C
 
 ### Founder & Artistic Director - Larrys School of Ballet
 *2009 - Present*
-- Established and grew one of Japan's premier classical ballet schools with 5+ studios across the country.
+- Established and grew one of Japan's premier classical ballet schools with 5+ studios across the country
 
 ### Founder - Summer World Ballet Agency
 *2023 - Present*
-- Launched a study abroad agency for ballet students, facilitating international training opportunities.
+- Launched a study abroad agency for ballet students, facilitating international training opportunities
 
 ### Software Engineer & Data Scientist
 *2020 - Present*
-- Specializing in architecting and developing data mining project.
-- Expertise in designing, implementing, and managing digital products for business use.
+- Specializing in architecting and developing data mining projects
+- Expertise in designing, implementing, and managing digital products for business use
 
 ## Projects
 
-- **Dancewear Brand Analysis on Instagram**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community.
-- **Class Booking Web App**: Designed and developed a web application for managing class schedules and bookings for dance schools.
+- **Dancewear Brand Analysis on Instagram**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community
+- **Class Booking Web App**: Designed and developed a web application for managing class schedules and bookings for dance schools
 
 ## Education
 
