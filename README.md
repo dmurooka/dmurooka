@@ -14,6 +14,7 @@
 - [Education](#education)
 - [Certifications](#certifications)
 - [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## About Me
 
