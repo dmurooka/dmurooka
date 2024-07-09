@@ -32,7 +32,7 @@ I am currently pursuing a Master of Science in Computer Science and a Graduate C
 - **Data Science**: Data Mining, Data Analysis, Machine Learning
 - **Mathematics**: Statistics (including Probability Theory), Linear Algebra, Discrete Mathmatics, Complex Analysis, Discrete Optimization
 - **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
-- **Business Management**: Overall business acumen, Digital Marketing, E-commerce, Product Design, Accouting
+- **Business Management**: Overall business acumen, Team Management, Digital Marketing, E-commerce, Product Design, Accouting
 
 ## Experience
 
