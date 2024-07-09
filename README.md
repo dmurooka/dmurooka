@@ -69,7 +69,7 @@ I am an experienced entrepreneur and data professional with over 10 years in bus
 
 ## Acknowledgements
 
-Special thanks to my family, all my colleagues, mentors, and students who have supported my journey.
+Special thanks to my beloved family, all my colleagues, mentors, and students who have supported my journey.
 
 ---
 
