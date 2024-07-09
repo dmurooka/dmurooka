@@ -2,7 +2,7 @@
 
 # Daishin
 
-[![LinkedIn](https://www.linkedin.com/in/daishinmurooka/)
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/daishinmurooka/)
 
 ## Table of Contents
 
@@ -64,7 +64,7 @@ An experienced entrepreneur and data professional with over 15 years in business
 
 ## Contact
 
-- **LinkedIn**:[LinkedIn](https://www.linkedin.com/in/daishinmurooka/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/daishinmurooka/)
 
 ## Acknowledgements
 
