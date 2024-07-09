@@ -28,7 +28,7 @@ I am an experienced entrepreneur and data professional with over 10 years in bus
 - **Programming Languages**: Python, R, JavaScript/TypeScript, React.js, HTML/CSS
 - **Frameworks**: Django, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning
-- **Mathematics**: Statistics (including Probability Theory), Linear Algebra, Discrete Mathmatics, Complex Analysis
+- **Mathematics**: Statistics (including Probability Theory), Linear Algebra, Discrete Mathmatics, Complex Analysis, Discrete Optimization
 - **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
 - **Business Management**: Overall business acumen, Digital Marketing, E-commerce, Product Design, Accouting
 
