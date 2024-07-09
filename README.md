@@ -55,7 +55,7 @@ I am currently pursuing a Master of Science in Computer Science and a Graduate C
 ## Projects
 
 - **Dancewear Brand Analysis on Instagram**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community
-- **Class Booking Web App**: Designed and developed a web application for managing class schedules and bookings for dance schools
+- **Class Booking Web App**: Design and develop a web application for class boooking at dance schools
 
 ## Education
 
