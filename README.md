@@ -55,7 +55,7 @@ An experienced entrepreneur and data professional with over 15 years in business
 
 - **Master of Science in Computer Science** - University of Colorado Boulder (In Progress)
 - **Graduate Certificate in Data Science** - University of Colorado Boulder (In Progress)
-- **Bachelor of Science in Enbironmental and Resource Economics** - University of New Hampshire
+- **Bachelor of Science in Environmental and Resource Economics** - University of New Hampshire
 
 ## Certifications
 
