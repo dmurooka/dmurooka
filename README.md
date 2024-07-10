@@ -49,8 +49,8 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 
 ### Software Engineer & Data Scientist
 *2022 - Present*
-- Specializing in architecting and developing data mining projects
-- Expertise in designing, implementing, and managing digital products for business use
+- Architect and develop data mining projects
+- Design, implement, and manage digital products for business use
 
 ## Projects
 
