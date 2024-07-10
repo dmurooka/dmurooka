@@ -45,7 +45,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 
 ### Founder - Summer World Ballet Agency
 *2023 - Present*
-- Launched a study abroad agency for ballet students, facilitating international training opportunities
+- Founded and lead a study abroad agency for ballet students, mentoring them and facilitating international training opportunities
 
 ### Software Engineer & Data Scientist
 *2022 - Present*
