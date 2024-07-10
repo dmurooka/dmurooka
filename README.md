@@ -48,7 +48,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 - Launched a study abroad agency for ballet students, facilitating international training opportunities
 
 ### Software Engineer & Data Scientist
-*2020 - Present*
+*2022 - Present*
 - Specializing in architecting and developing data mining projects
 - Expertise in designing, implementing, and managing digital products for business use
 
