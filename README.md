@@ -33,7 +33,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 - **Data Science**: Data Mining, Data Analysis, Machine Learning
 - **Mathematics**: Statistics (including Probability Theory), Linear Algebra, Discrete Mathmatics, Complex Analysis, Discrete Optimization, Graph Theory
 - **Database Management**: PostgreSQL, MySQL, MongoDB
-- **Cloud Platform**: AWS, GCP
+- **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, E-commerce, Product Design, Accouting
 
