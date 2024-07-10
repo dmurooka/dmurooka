@@ -74,7 +74,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 
 ## Acknowledgements
 
-Special thanks to my beloved family, all my colleagues, mentors, and students who have supported my journey.
+Special thanks to my beloved family, friends, all my colleagues, mentors, and students who have supported my journey.
 
 ---
 
