@@ -35,7 +35,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 - **Database Management**: PostgreSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
-- **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, E-commerce, Product Design, Accouting
+- **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting
 
 ## Experience
 
