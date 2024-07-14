@@ -36,7 +36,7 @@ Alongside my work, I am currently pursuing a Master of Science in Computer Scien
 - **Mathematics**: Advanced Statistics, Linear Algebra, Discrete Mathmatics, Complex Analysis, Optimization Theory, Vector Calculus, Numerical Analysis, Real Analysis, Differential Equations
 - **Database Management**: PostgreSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS, GCP
-- **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker
+- **Tools & Technologies**: pandas, NumPy, Matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting
 
 ## Experience
