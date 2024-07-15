@@ -22,7 +22,7 @@ I am Daishin, an experienced entrepreneur, data professional, and software engin
 
 ## Profile Summary
 
-An experienced entrepreneur and data professional with over 10 years in business management, leveraging domain knowledge in classical ballet education. I have founded and leed a successful business, one of Japan's premier classical ballet schools. 
+An experienced entrepreneur and data professional with over 10 years in business management, leveraging domain knowledge in classical ballet education. I have founded and lead a successful business, one of Japan's premier classical ballet schools. 
 
 My expertise spans business management, software engineering, and data science/machine learning, with a strong focus on leveraging these skills to address various business challenges.
 
