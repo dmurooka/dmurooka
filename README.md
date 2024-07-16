@@ -18,11 +18,11 @@
 
 ## About Me
 
-I am Daishin, an experienced entrepreneur, data professional, and software engineer. With over 10 years in business management and expertise in data science & software engineering, I have successfully founded and manage businesses in classical ballet education.
+I am Daishin, an experienced entrepreneur, educator, data professional, and software engineer. With over 10 years in business management and expertise in data science & software engineering, I have successfully founded and manage businesses in classical ballet education.
 
 ## Profile Summary
 
-An experienced entrepreneur and data professional with over 10 years in business management, leveraging domain knowledge in classical ballet education. I have founded and lead a successful business, one of Japan's premier classical ballet schools. 
+An experienced entrepreneur, educator, and data professional with over 10 years in business management, leveraging domain knowledge in classical ballet education. I have founded and currently lead a Japan's premier classical ballet school, Larrys School of Ballet. 
 
 My expertise spans business management, software engineering, and data science/machine learning, with a strong focus on leveraging these skills to address various business challenges.
 
