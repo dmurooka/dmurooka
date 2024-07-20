@@ -22,7 +22,7 @@ An experienced entrepreneur, educator, and data professional/software engineer w
 
 My expertise spans business management, software engineering, and data science/machine learning, with a strong focus on leveraging these skills to address various business challenges.
 
-Alongside my work, I am currently pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at University of Colorado Boulder to further enhance my skills and drive business growth.
+Alongside my work, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at University of Colorado Boulder.
 
 ## Skills
 
