@@ -32,7 +32,7 @@ Alongside my work, I am pursuing a Master of Science in Computer Science and a G
 - **Mathematics**: Advanced Statistics, Linear Algebra, Discrete Mathematics, Complex Analysis, Optimization Theory, Vector Calculus, Numerical Analysis, Real Analysis, Differential Equations
 - **Database Management**: Cassandra, PostgreSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS, GCP
-- **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery
+- **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery, Jenkins
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
 ## Experience
