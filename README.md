@@ -29,7 +29,7 @@ Alongside my work, I am pursuing a Master of Science in Computer Science and a G
 - **Programming Languages**: Python, R, JavaScript/TypeScript, React.js, HTML/CSS
 - **Frameworks**: Django, FastAPI, TensorFlow, Keras, LangChain, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
-- **Mathematics**: Advanced Statistics, Linear Algebra, Discrete Mathematics, Complex Analysis, Optimization Theory, Vector Calculus, Numerical Analysis, Real Analysis, Differential Equations
+- **Mathematics**: Advanced Statistics, Linear Algebra, Discrete Mathematics, Complex Analysis, Optimization Theory, Numerical Analysis, Real Analysis, Differential Equations
 - **Database Management**: Cassandra, PostgreSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery, Jenkins
