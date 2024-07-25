@@ -33,7 +33,7 @@ Alongside my work, I am pursuing a Master of Science in Computer Science and a G
 - **Database Management**: Cassandra, PostgreSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery, Jenkins
-- **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
+- **Business Management**: Overall Business Acumen, Team Management, Project Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
 ## Experience
 
