@@ -20,7 +20,7 @@
 
 An experienced entrepreneur, educator, and data professional/software engineer with over 10 years of experience in business management. I leverage domain expertise in classical ballet and have founded and currently lead Japan's premier classical ballet school, Larrys School of Ballet.
 
-My skill set spans business management, software engineering, and data science/machine learning, with a strong focus on applying these skills to address various business challenges.
+With over 10 years of experience in school/business management, my expertise spans classical ballet, teaching, software engineering, and data science/machine learning.
 
 Alongside my work, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder.
 
