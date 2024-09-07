@@ -27,10 +27,10 @@ Alongside my work, I am pursuing a Master of Science in Computer Science and a G
 ## Skills
 
 - **Programming Languages**: Python, R, JavaScript/TypeScript, React.js, HTML/CSS
-- **Frameworks**: Django, FastAPI, TensorFlow, Keras, LangChain, Next.js
+- **Frameworks**: Django, FastAPI, TensorFlow/Keras, PyTorch, LangChain, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Mathematics**: Advanced Statistics, Linear Algebra, Discrete Mathematics, Complex Analysis, Optimization Theory, Numerical Analysis, Real Analysis, Differential Equations
-- **Database Management**: Cassandra, PostgreSQL, MySQL, MongoDB
+- **Database Management**: PostgreSQL, MySQL, MongoDB, Cassandra
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, Vertex AI, BigQuery, Jenkins
 - **Business Management**: Overall Business Acumen, Team Management, Project Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
