@@ -22,7 +22,7 @@ An experienced entrepreneur, educator, and data professional/software engineer w
 
 With over 10 years of experience in school/business management, my expertise spans classical ballet, teaching, software engineering, and data science/machine learning.
 
-Alongside my work, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder.
+In addition to my work, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder.
 
 ## Skills
 
@@ -74,7 +74,7 @@ Alongside my work, I am pursuing a Master of Science in Computer Science and a G
 
 ## Acknowledgements
 
-Special thanks to my beloved family, friends, all my colleagues, mentors, and students who have supported my journey.
+Special thanks to my beloved family, friends, my colleagues, mentors, and students who have supported my journey.
 
 ---
 
