@@ -18,15 +18,13 @@
 
 ## Profile Summary
 
-An experienced entrepreneur, educator, and data professional/software engineer with over 10 years of experience in business management. I leverage domain expertise in classical ballet and have founded and currently lead Japan's premier classical ballet school, Larrys School of Ballet.
-
-With over 10 years of experience in school/business management, my expertise spans classical ballet, teaching, software engineering, and data science/machine learning.
+An experienced entrepreneur, educator, and software engineer with over 10 years of experience in business management. I leverage domain expertise in classical ballet and have founded and currently lead Japan's premier classical ballet school, Larrys School of Ballet.
 
 In addition to my work, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder.
 
 ## Skills
 
-- **Programming Languages**: Python, R, JavaScript/TypeScript, React.js, HTML/CSS
+- **Programming Languages**: Python, JavaScript/TypeScript, React.js, HTML/CSS, R, Java
 - **Frameworks**: TensorFlow/Keras, Django, FastAPI, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Database Management**: PostgreSQL, MySQL, MongoDB
