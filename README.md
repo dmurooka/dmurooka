@@ -31,7 +31,7 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 - **Messaging & Queues**: Redis
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, SageMaker, Vertex AI, BigQuery, Terraform
-- **Business Management**: Overall Business Acumen, Team Management, Project Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
+- **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
 ## Experience
 
