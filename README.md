@@ -24,11 +24,11 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript/TypeScript, React.js, HTML/CSS, R, Java
+- **Programming Languages**: Python, JavaScript/TypeScript, React.js, R, Java, HTML/CSS
 - **Frameworks**: TensorFlow/Keras, Django, FastAPI, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
-- **Messaging & Queues**: Redis
+- **Messaging & Queues**: Redis, RabbitMQ
 - **Cloud Platforms**: AWS, GCP
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, SageMaker, Vertex AI, BigQuery, Terraform
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
