@@ -25,7 +25,7 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 ## Skills
 
 - **Programming Languages**: Python, JavaScript/TypeScript, React.js, R, Java, HTML/CSS
-- **Frameworks**: Django, FastAPI, TensorFlow/Keras, Next.js
+- **Frameworks**: Django, FastAPI, Node.js, TensorFlow/Keras, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Messaging & Queues**: Redis, RabbitMQ
