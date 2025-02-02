@@ -30,6 +30,7 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Messaging & Queues**: Redis, RabbitMQ
 - **Cloud Platforms**: AWS, GCP
+- **CI/CD Tools**: Jenkins
 - **Tools & Technologies**: pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, Git, Docker, SageMaker, Vertex AI, BigQuery, Terraform
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
