@@ -47,7 +47,7 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 ### Software Engineer & Data Scientist
 *2022 - Present*
 - Architect and develop data mining projects
-- Design, implement, and manage digital products for business use. Started with a monolithic architecture and transitioned to a microservices-based design as the application grew.
+- Design, implement, and manage digital products for business use. Started with a monolithic architecture and transitioned to a microservices-based design as the application grew
 
 ## Projects
 
