@@ -46,13 +46,12 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 
 ### Software Engineer & Data Scientist
 *2022 - Present*
-- Architect and develop data mining projects
 - Design, implement, and manage digital products for business use. Started with a monolithic architecture and transitioned to a microservices-based design as the application grew
+- Architect and develop data mining projects
 
 ## Projects
-
-- **Dancewear Brand Analysis**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community
 - **Class Booking Web App**: Design and develop a web application for class booking
+- **Dancewear Brand Analysis**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community
 
 ## Education
 
@@ -73,11 +72,11 @@ In addition to my work, I am pursuing a Master of Science in Computer Science an
 
 ## Acknowledgements
 
-Special thanks to my beloved family, friends, my colleagues, mentors, and students who have supported my journey.
+I want to give special thanks to my beloved family, friends, colleagues, mentors, and students who have supported my journey.
 
 ---
 
-*This README is a summary of my professional journey, showcasing my skills, experience, and projects. For more detailed information, please visit my [LinkedIn](https://www.linkedin.com/in/daishinmurooka/).*
+*This README summarizes my professional journey, showcasing my skills, experience, and projects. For more detailed information, please visit my [LinkedIn](https://www.linkedin.com/in/daishinmurooka/).*
 
 <!--
 **dmurooka/dmurooka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
