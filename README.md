@@ -33,7 +33,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 - **Messaging & Queues**: Redis, RabbitMQ
 - **Cloud Platforms**: AWS, GCP
 - **CI/CD Tools**: Terraform, Github Actions, Jenkins
-- **Tools & Technologies**: Docker, Git, pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, SageMaker, Vertex AI, BigQuery
+- **Tools & Technologies**: Docker, Kubernetes, Git, pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, SageMaker, Vertex AI, BigQuery
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
 ## Experience
