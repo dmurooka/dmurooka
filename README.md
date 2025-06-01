@@ -26,7 +26,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript/TypeScript, React.js, R, Java, HTML/CSS
+- **Programming Languages**: Python, JavaScript/TypeScript, React.js, Java, R, HTML/CSS
 - **Frameworks**: Django, FastAPI, Spring Boot, Node.js, TensorFlow/Keras, Next.js
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
@@ -38,18 +38,19 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Experience
 
-### Founder & Artistic Director - Larrys School of Ballet
-*2015 - Present*
-- Founded, built, and expand one of Japan's premier classical ballet schools with 5 studios across the country
+### Software Engineer & Data Scientist
+*2022 - Present*
+- Design, implement, and manage digital products for business use. Started with a monolithic architecture and currently transitioning to a muti-tenant, microservices-based design as the application grew
+- Architect and develop data mining projects
 
 ### Founder - Summer World Ballet Agency
 *2023 - Present*
 - Founded and lead a study abroad agency for ballet students, mentoring them and facilitating international training opportunities
 
-### Software Engineer & Data Scientist
-*2022 - Present*
-- Design, implement, and manage digital products for business use. Started with a monolithic architecture and transitioned to a microservices-based design as the application grew
-- Architect and develop data mining projects
+### Founder & Artistic Director - Larrys School of Ballet
+*2015 - Present*
+- Founded, built, and expand one of Japan's premier classical ballet schools with 5 studios across the country
+
 
 ## Projects
 - **Class Booking Web App**: Design and develop a web application for class booking
