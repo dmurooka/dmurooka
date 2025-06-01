@@ -40,7 +40,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ### Software Engineer & Data Scientist
 *2022 - Present*
-- Design, implement, and manage digital products for business use. Started with a monolithic architecture and currently transitioning to a muti-tenant, microservices-based design as the application grew
+- Design, implement, and manage digital products for business use. Started with a monolithic architecture and is currently transitioning to a muti-tenant, microservices-based design as the application grew
 - Architect and develop data mining projects
 
 ### Founder - Summer World Ballet Agency
