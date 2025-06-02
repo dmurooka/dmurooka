@@ -29,7 +29,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 - **Programming Languages**: Python, JavaScript/TypeScript, React.js, Java, R, HTML/CSS
 - **Frameworks**: Django, FastAPI, Spring Boot, Node.js, TensorFlow/Keras, Next.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
-- **Messaging & Queues**: Redis, RabbitMQ,Google Cloud Pub/Sub
+- **Messaging & Queues**: Redis, RabbitMQ, Google Cloud Pub/Sub
 - **Cloud Platforms**: AWS, GCP
 - **CI/CD Tools**: Terraform, Github Actions, Jenkins
 - **Tools & Technologies**: Docker, Kubernetes, Git, pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, SageMaker, Vertex AI, BigQuery
