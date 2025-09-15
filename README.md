@@ -32,7 +32,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 - **Messaging & Queues**: Redis, RabbitMQ, Google Cloud Pub/Sub
 - **Cloud Platforms**: AWS, GCP
 - **CI/CD Tools**: Terraform, Github Actions, Jenkins
-- **Tools & Technologies**: Docker, Kubernetes, Git, pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, SageMaker, Vertex AI, BigQuery
+- **Tools & Technologies**: Docker, Kubernetes, RabbitMQ, Git, pandas, NumPy, matplotlib, seaborn, scikit-learn, tidyverse, SageMaker, Vertex AI, BigQuery
 - **Data Science**: Data Mining, Data Analysis, Machine Learning, Deep Learning
 - **Business Management**: Overall Business Acumen, Team Management, Digital Marketing, Product Design, Accounting, Real Estate Site Acquisition
 
@@ -40,7 +40,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ### Software Engineer & Data Scientist
 *2022 - Present*
-- Design, implement, and manage digital products for business use. Started with a monolithic architecture and is currently transitioning to a muti-tenant, microservices-based design as the application grew
+- Design, implement, and manage digital products for business use. Started with a monolithic architecture and is currently transitioning to a multi-tenant, microservices-based design as the application has grown
 - Architect and develop data mining projects
 
 ### Founder - Summer World Ballet Agency
