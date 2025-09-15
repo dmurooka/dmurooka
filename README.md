@@ -20,14 +20,14 @@
 
 An entrepreneur, educator, and software engineer with over 10 years of experience in business management. I leverage domain expertise in classical ballet as the founder and current leader of Japan's premier ballet school, Larry's School of Ballet.
 
-My business management background equips me with the ability to integrate business needs with software design.
+My business management background enables me to integrate business needs with software design effectively.
 
 In addition, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder. This academic journey complements my practical experience in software engineering, data science, and cloud computing/networking.
 
 ## Skills
 
 - **Programming Languages**: Python, JavaScript/TypeScript, React.js, Java, R, HTML/CSS
-- **Frameworks**: Django, FastAPI, Spring Boot, Node.js, TensorFlow/Keras, Next.js
+- **Frameworks**: Django, FastAPI, Spring Boot, Node.js, JAX, TensorFlow/Keras, Pytorch, Next.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Messaging & Queues**: Redis, RabbitMQ, Google Cloud Pub/Sub
 - **Cloud Platforms**: AWS, GCP
