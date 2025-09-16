@@ -26,7 +26,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript/TypeScript, React.js, Java, R, HTML/CSS
+- **Programming Languages**: Python, JavaScript/TypeScript, Go, React.js, Java, R, HTML/CSS
 - **Frameworks**: Django, FastAPI, Spring Boot, Node.js, JAX, TensorFlow/Keras, Pytorch, Next.js
 - **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
 - **Messaging & Queues**: Redis, RabbitMQ, Google Cloud Pub/Sub
