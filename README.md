@@ -20,7 +20,7 @@
 
 Entrepreneur and software engineer with 10+ years of experience in business management and digital product development.
 
-Founder & Software Engineer at Pepperoni Booking, a beta SaaS platform for Pilates & Gyrotonic®/Gyrokinesis® studios worldwide. Currently designing and implementing the product while building the early community of studio users and preparing for scale. Experienced in transitioning applications from monolithic architectures to microservices.
+Founder & Software Engineer at Pepperoni Booking, a beta SaaS platform for Pilates & Gyrotonic®/Gyrokinesis® studios worldwide. Currently leading the design and implementation of the product, while building the early community of studio users and preparing for scale. Experienced in transitioning applications from monolithic architectures to microservices.
 
 Additionally, I am the founder and leader of Larry's School of Ballet, one of Japan’s premier ballet schools, where I combine business expertise with technology to enhance operations and the student experience.
 
