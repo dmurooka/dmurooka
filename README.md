@@ -48,10 +48,6 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 - Design, implement, and manage digital products for business use. Started with a monolithic architecture and transitioned to a microservices-based design as the application grew
 - Lead data mining projects, leveraging data analysis and machine learning to derive actionable insights
 
-### Founder - Summer World Ballet Agency
-*2023 - Present*
-- Founded and lead a study abroad agency for ballet students, mentoring them and facilitating international training opportunities
-
 ### Founder & Artistic Director - Larrys School of Ballet
 *2015 - Present*
 - Founded, built, and expand one of Japan's premier classical ballet schools with 5 studios across the country
