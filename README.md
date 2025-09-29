@@ -38,7 +38,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Experience
 
-### Software Engineer & Data Scientist
+### Software Engineer - Pepperoni Booking
 *2022 - Present*
 - Design, implement, and manage digital products for business use. Started with a monolithic architecture and is currently transitioning to a multi-tenant, microservices-based design as the application has grown
 - Architect and develop data mining projects
