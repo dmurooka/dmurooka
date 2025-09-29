@@ -20,7 +20,7 @@
 
 An entrepreneur, educator, and software engineer with over 10 years of experience in business management. I leverage domain expertise in classical ballet as the founder and current leader of Japan's premier ballet school, Larry's School of Ballet.
 
-My business management background enables me to integrate business needs with software design effectively.
+My business management background enables me to effectively integrate business needs with software design.
 
 In addition, I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder. This academic journey complements my practical experience in software engineering, data science, and cloud computing/networking.
 
@@ -38,10 +38,10 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Experience
 
-### Software Engineer - Pepperoni Booking
-*2022 - Present*
-- Design, implement, and manage digital products for business use. Started with a monolithic architecture and is currently transitioning to a multi-tenant, microservices-based design as the application has grown
-- Architect and develop data mining projects
+### Founder & Software Engineer - Pepperoni Booking
+*2023 - Present*
+- The only booking platform built for Pilates & Gyrotonic®/Gyrokinesis® studios worldwide
+- Design, implement, and manage a SaaS product for Pilates Studio.
 
 ### Founder - Summer World Ballet Agency
 *2023 - Present*
