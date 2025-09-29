@@ -30,7 +30,7 @@ I am pursuing a Master of Science in Computer Science and a Graduate Certificate
 
 - **Programming Languages**: Python, JavaScript/TypeScript, Go, React.js, Java, R, HTML/CSS
 - **Frameworks**: Django, FastAPI, Spring Boot, Node.js, JAX, TensorFlow/Keras, Pytorch, Next.js
-- **Database Management**: PostgreSQL, MySQL, MongoDB, Redis
+- **Database Management**: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
 - **Messaging & Queues**: Redis, RabbitMQ, Google Cloud Pub/Sub
 - **Cloud Platforms**: AWS, GCP
 - **CI/CD Tools**: Terraform, Github Actions, Jenkins
