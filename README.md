@@ -52,7 +52,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 - Founded, built, and expand one of Japan's premier classical ballet schools with 5 studios across the country
 
 ## Projects
-- **Class Booking Web App**: Design and develop a web application for class booking
+- **Class Booking Web App**: Design and develop a multi-tenant booking for Pilates studios
 - **Dancewear Brand Analysis**: Architect and implement a comprehensive data mining project to uncover trends and patterns in user engagement and content preferences within the dancewear community
 
 ## Education
