@@ -68,6 +68,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 
 ## Certifications
 
+- ** Object-Oriented Analysis & Design Specialization** - University of Colorado Boulder
 - **Network Systems: Principles in Practice** - University of Colorado Boulder
 - **Data Wrangling with Python** - University of Colorado Boulder
 - **Data Analysis with Python** - University of Colorado Boulder
