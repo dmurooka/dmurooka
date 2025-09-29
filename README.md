@@ -39,7 +39,7 @@ In addition, I am pursuing a Master of Science in Computer Science and a Graduat
 ## Experience
 
 ### Founder & Software Engineer - Pepperoni Booking
-*2023 - Present*
+*2025 - Present*
 - The only booking platform built for Pilates & Gyrotonic®/Gyrokinesis® studios worldwide
 - Design, implement, and manage a SaaS product for Pilates Studio.
 
