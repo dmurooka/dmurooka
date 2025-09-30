@@ -24,7 +24,7 @@ Founder & Software Engineer at Pepperoni Booking, a beta SaaS platform for Pilat
 
 Additionally, I am the founder and leader of Larry's School of Ballet, one of Japan’s premier ballet schools, where I combine business expertise with technology to enhance operations and the student experience.
 
-I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder. This academic journey complements my practical experience in software engineering, data science, and cloud computing/networking.
+I am pursuing a Master of Science in Computer Science and a Graduate Certificate in Data Science at the University of Colorado Boulder. This academic journey complements my practical experience in software engineering, machine learning, and cloud computing/networking.
 
 ## Skills
 
