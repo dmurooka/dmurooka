@@ -10,7 +10,7 @@ I design and build the entire stack — architecture, backend, frontend, infrast
 
 ### **Larry’s School of Ballet — Founder & Artistic Director**  
 One of Japan’s leading ballet schools with 5 studios.  
-I lead operations, technology, team development, and long-term strategy.
+I teach and lead operations, technology, team development, and long-term strategy.
 
 ---
 
