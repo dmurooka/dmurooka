@@ -8,7 +8,7 @@ Founder–Engineer building AI-accelerated products and real-world businesses.
 A multi-tenant SaaS booking platform for Pilates & Gyrotonic®/Gyrokinesis® studios worldwide.  
 I design and build the entire stack — architecture, backend, frontend, infrastructure, analytics, and early user community.
 
-### **Larry’s School of Ballet — Founder**  
+### **Larry’s School of Ballet — Founder & Artistic Director**  
 One of Japan’s leading ballet schools with 5 studios.  
 I lead operations, technology, team development, and long-term strategy.
 
