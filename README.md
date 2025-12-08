@@ -15,20 +15,11 @@ I lead operations, technology, team development, and long-term strategy.
 ---
 
 ## 🧠 What I Do
-- Build products from **0 → 1**  
+- Build products from **0**  
 - Architect **scalable systems** (microservices, multi-tenant SaaS)  
 - Apply **AI/LLMs** to accelerate development and automate workflows  
 - Design technical solutions that solve real business problems  
 - Operate and grow companies
-
----
-
-## 🛠️ Technical Focus  
-**Backend:** Python, TypeScript, Django, FastAPI  
-**Frontend:** React, Next.js  
-**Infra:** AWS, GCP, Docker, Kubernetes, Terraform  
-**Databases:** PostgreSQL, Redis, MongoDB  
-**AI/Data:** ML workflows, data pipelines, LLM-powered engineering
 
 ---
 
