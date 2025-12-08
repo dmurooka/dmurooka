@@ -40,6 +40,6 @@ I lead operations, technology, team development, and long-term strategy.
 ---
 
 ## 🌐 Connect  
-**LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/daishinmurooka/)]
+**LinkedIn:** [[LinkedIn URL](https://www.linkedin.com/in/daishinmurooka/)]
 
 ---
