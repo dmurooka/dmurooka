@@ -1,5 +1,5 @@
 # Hi, I'm Daishin 👋  
-Founder–Engineer focused on designing maintainable systems that model real-world businesses.
+Founder–Engineer focused on designing maintainable systems that model real-world business domains.
 
 ## 🚀 What I'm Building
 
@@ -10,7 +10,7 @@ I own the system architecture and core domain design, with an emphasis on mainta
 
 The platform supports multiple studios with domain-specific workflows while minimizing coupling and operational complexity.
 
-I am also hands-on with backend, frontend, and infrastructure to ensure architectural consistency throughout the end-to-end process.
+I am also hands-on with backend, frontend, and infrastructure to ensure architectural consistency end-to-end.
 
 ---
 
