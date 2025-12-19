@@ -15,7 +15,7 @@ I am also hands-on with backend, frontend, and infrastructure to ensure architec
 ---
 
 ### Larry’s School of Ballet — Founder & Artistic Director
-One of Japan’s leading ballet schools, operating 5 studios.
+One of Japan’s leading ballet schools, operating 5+ studios.
 
 I lead both artistic direction and business operations, while designing internal systems and processes to support long-term growth, staff development, and scalability.
 
