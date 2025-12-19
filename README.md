@@ -10,7 +10,7 @@ I own the system architecture and core domain design, with an emphasis on mainta
 
 The platform supports multiple studios with domain-specific workflows while minimizing coupling and operational complexity.
 
-I am also hands-on with backend, frontend, infrastructure, and analytics to ensure architectural consistency throughout the end-to-end process.
+I am also hands-on with backend, frontend, and infrastructure to ensure architectural consistency throughout the end-to-end process.
 
 ---
 
