@@ -4,7 +4,7 @@ Founder–Engineer focused on designing maintainable systems that model real-wor
 ## 🚀 What I'm Building
 
 ### Pepperoni Booking — Founder & Lead Engineer
-A multi-tenant SaaS booking platform for Pilates, Yoga, and Gyrotonic®/Gyrokinesis® studios.
+A multi-tenant SaaS booking platform for Pilates, Yoga, and Gyrotonic®/Gyrokinesis® studios worldwide.
 
 I own the system architecture and core domain design, with an emphasis on maintainability, clear separation of responsibilities, and safe evolution as business requirements change.
 
