@@ -1,6 +1,5 @@
 # Hi, I'm Daishin 👋  
-Founder–Engineer focused on designing maintainable systems
-that support real-world businesses.
+Founder–Engineer focused on designing maintainable systems that model real-world businesses.
 
 ## 🚀 What I'm Building
 
