@@ -21,7 +21,7 @@ I lead both artistic direction and business operations, while designing internal
 
 ## 🧠 What I Do
 - Design and build products from 0 → production
-- Architect scalable systems (multi-tenant SaaS, service-oriented design)
+- Architect scalable systems with explicit domain boundaries (multi-tenant SaaS, service-oriented design)
 - Apply AI / LLMs to accelerate development and automate workflows
 - Translate complex business operations into clear technical models
 - Operate and grow real companies, not just software
